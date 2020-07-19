@@ -1,16 +1,17 @@
+# 🧑 Nivaldo Andrade
+
+<p>
+<a href="https://www.linkedin.com/in/nivaldo-andrade"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a>
+<a href="https://api.whatsapp.com/send?phone=+5511984784784"><img src="https://img.shields.io/badge/-whatsapp-25d366&labelColor=white?style=flat-square&logo=Whatsapp&logoColor=white"></img></a>
+</p>
+
+
 ### Hi there 👋
 
-<!--
-**nivaldoandrade/nivaldoandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on in support analyst, but studying A LOT to enter the world of web development (Front End and Back End).
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning NodeJs, Nunjucks, ReactJs, ReactNative, Javascript and **more**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 🎮 Play online game 
+
+----

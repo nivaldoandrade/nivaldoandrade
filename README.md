@@ -3,6 +3,7 @@
 <p>
 <a href="https://www.linkedin.com/in/nivaldo-andrade"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></img></a>
 <a href="https://api.whatsapp.com/send?phone=+5511984784784"><img src="https://img.shields.io/badge/-whatsapp-25d366&labelColor=white?style=flat-square&logo=Whatsapp&logoColor=white"></img></a>
+<a href="mailto:nivaldoandradef@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat-square&logo=gmail&logoColor=white"></img></a>
 </p>
 
 

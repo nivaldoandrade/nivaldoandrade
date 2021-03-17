@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on in support analyst, but studying A LOT to enter the world of web development (Front End and Back End).
 
-- 🌱 I’m currently learning NodeJs, Nunjucks, ReactJs, ReactNative, Javascript and **more**
+- 🌱 I’m currently learning ReactJS, Next.js, Node.js and Flutter
 
 - ⚡ Fun fact: 🎮 Play online game 
 

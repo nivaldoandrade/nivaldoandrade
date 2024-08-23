@@ -22,16 +22,16 @@ Eu sou Nivaldo Andrade, formado em sistema de informação em 2016, desde lá tr
 
 <ul>
 	<li>
-		🔭 Já utilizei em projetos ReactJS, Next.js, React Native, Node.js e Flutter;
+		🔭 Já utilizei em projetos ReactJS, Next.js, React Native, Node.js, Java, Spring e Flutter;
 	</li>
 	<li>
-		🌱 Eu estou Focado em ReactJS e Next.js;
+		🌱 Eu estou Focado em ReactJS, Next.js, Java e Spring;
 	</li>
 	<li>
-		👨‍💻 Eu quero aprofundar os estudos em Node.js, Flutter e React Native;
+		👨‍💻 Eu quero aprofundar os estudos em Serveless, ;
 	</li>
 	<li>
-		⚡ Gosto de correr, jogar(Valorant), ler, meditar e assistir o Casemiro.
+		⚡ Gosto de correr, jogar(CSzin), ler, meditar.
 	</li>
 </ul>
 
